@@ -1,5 +1,4 @@
-// import React from "react";
-// import items from "../products.json";
+
 import { useSelector } from "react-redux";
 import { getItemsSelector } from "../store/slices/CartSlice";
 const Cart = () => {

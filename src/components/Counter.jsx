@@ -5,7 +5,7 @@ const Counter = () => {
   const count = useSelector((state) => state);
   return (
     <div className="desc">
-      <h1>This is a fckn counter apps</h1>
+      <h1>This is a simple counter apps</h1>
       <div>Count : {count}</div>
     </div>
   );
